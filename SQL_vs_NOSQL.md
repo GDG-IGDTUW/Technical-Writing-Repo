@@ -18,22 +18,7 @@ Databases are the backbone of any application that deals with data. Selecting th
 
 ![image](https://github.com/user-attachments/assets/7d52e81e-eb01-492f-ba8a-0b9d022fe0e6)
 
-+-------------------------------------------------------+--------------------------------------------------------+
-| SQL                                                   | NoSQL                                                  |
-+-------------------------------------------------------+--------------------------------------------------------+
-| Relational database management system                 | Non-relational or distributed database system          |
-+-------------------------------------------------------+--------------------------------------------------------+
-| These databases have fixed, static, or predefined     | These databases have a dynamic schema                  |
-schema                                                  |                                                        |
-+-------------------------------------------------------+--------------------------------------------------------+
-| Best suited for complex queries; not ideal for        |  Best suited for hierarchical data storage; not ideal  |
-  hierarchical data storage                               |   for complex queries
-+-------------------------------------------------------+--------------------------------------------------------+
-| Follows ACID property                                 | Follows CAP (Consistency, Availability, Partition      | 
-                                                        |  tolerance)                                            |
-+-------------------------------------------------------+--------------------------------------------------------+
-| Examples: MySQL, PostgreSQL, Oracle, MS-SQL Server    | Examples: MongoDB, HBase, Neo4j, Cassandra             |
-+-------------------------------------------------------+--------------------------------------------------------+
+
 
 ## 💼 Use Cases for SQL Databases
 
