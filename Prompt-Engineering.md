@@ -145,7 +145,69 @@ Prompts play a crucial role in shaping the behavior and outcomes of a language m
 6. **Limited Creativity**: While prompt engineering is effective for task-oriented responses, it may restrict the model's ability to produce creative or novel outputs, which can be a limitation in certain contexts.
 
 ## Strategies for improving prompts
-Provide actionable strategies and techniques for refining prompts to achieve better responses.
+1. **Be Specific and Clear**  
+   - Use precise language to avoid ambiguity.  
+   - Include key details about the desired output, such as format, tone, style, or structure.  
+   - Example: Instead of "Explain photosynthesis," ask "Explain photosynthesis to a 12-year-old in three short paragraphs using simple language."
+
+2. **Define Context**  
+   - Provide necessary background information or context.  
+   - Specify roles or personas for the AI to adopt.  
+   - Example: "You are a travel guide. Create a 3-day itinerary for budget travelers visiting Rome."
+
+3. **Use Step-by-Step Instructions**  
+   - Break down complex tasks into smaller, sequential steps.  
+   - Example: "Generate a list of five marketing strategies for a startup, then explain each strategy in two sentences."
+
+4. **Incorporate Examples**  
+   - Provide examples of the desired output to guide the AI's response.  
+   - Example: "Create a professional email. Example: 'Subject: Meeting Follow-Up\nDear [Name],\nThank you for...'\nNow write an email for a meeting invitation."
+
+5. **Experiment with Iterative Prompts**  
+   - Start with a broad prompt, then refine the query based on the initial response.  
+   - Example:  
+     1. Initial: "Summarize this article."  
+     2. Refined: "Summarize this article in 3 bullet points focusing on key takeaways."
+
+6. **Limit Output Length**  
+   - Set word, sentence, or paragraph limits.  
+   - Example: "Write a 100-word summary of this text."
+
+7. **Use Constraints and Rules**  
+   - Introduce explicit constraints to shape the response.  
+   - Example: "Create a recipe for a vegetarian dish with fewer than 5 ingredients."
+
+8. **Encourage Creativity with Open-Ended Prompts**  
+   - For brainstorming, use prompts that encourage diverse ideas.  
+   - Example: "List 10 creative uses for recycled plastic bottles."
+
+9. **Request Multiple Variations**  
+   - Ask for different versions of the response for comparison.  
+   - Example: "Provide three alternative opening paragraphs for a blog post about AI trends."
+
+10. **Incorporate Keywords**  
+    - Specify keywords or phrases that must appear in the response.  
+    - Example: "Write a slogan for a green energy company using the words 'sustainable' and 'future.'"
+
+11. **Specify Formatting**  
+    - Detail how the output should be formatted (e.g., tables, lists, code blocks).  
+    - Example: "Generate a table comparing the benefits and drawbacks of renewable energy sources."
+
+12. **Test and Iterate**  
+    - Review responses and tweak prompts for clarity or focus.  
+    - Example: If the output is too generic, add qualifiers like "Provide three actionable strategies for small businesses."
+
+13. **Combine Multiple Techniques**  
+    - Mix specificity, examples, and constraints for optimal results.  
+    - Example: "Write a 150-word persuasive speech for a school audience advocating for animal conservation. Use an emotional tone and include a call to action."
+
+14. **Use Positive Reinforcement**  
+    - Phrase prompts in a way that assumes success and clarity.  
+    - Example: Instead of "Can you write a poem?" try "Write a compelling poem about autumn that evokes nostalgia."
+
+15. **Leverage Negative Prompts**  
+    - State what the response should not include.  
+    - Example: "Summarize this article, but do not include numerical data."
 
 ## Use cases
 <!-- Document real-world applications and scenarios where prompt engineering plays a crucial role. -->
