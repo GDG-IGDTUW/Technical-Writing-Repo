@@ -36,6 +36,21 @@ Databases are the backbone of any application that deals with data. Selecting th
 ### Examples of NoSQL Databases
 #
 # 🔑 Key Differences Between SQL and NoSQL
+# SQL vs. NoSQL Databases Comparison
+
+| **Factor**               | **SQL Databases** 🗄️                           | **NoSQL Databases** 📂                       |
+|--------------------------|----------------------------------------------|---------------------------------------------|
+| **Data Structure**       | Tables with rows and columns 📊              | Flexible: key-value, document, graph, or column-family 📦 |
+| **Schema**               | Fixed, predefined schema 📜                  | Dynamic, schema-less 🌀                     |
+| **Scalability**          | Vertical (add more power to servers) 📈       | Horizontal (add more servers) 🌐            |
+| **Query Language**       | SQL (Structured Query Language) 💬           | Varies: JSON, queries, APIs 🧩              |
+| **Transactions**         | Strong ACID compliance ✅                     | Eventual consistency (BASE) ⏳              |
+| **Performance**          | Optimal for complex queries 📋               | Faster for unstructured data 🚀             |
+| **Use Cases**            | Structured data, analytics, reporting 📚     | Real-time data, IoT, social media 🔄        |
+| **Examples**             | MySQL, PostgreSQL, Oracle 🛠️                 | MongoDB, Cassandra, Redis 🔧                |
+
+> **Pro Tip:** Choose SQL for structured, relational data and NoSQL for unstructured, flexible, or rapidly changing data!
+
 
 ## 1. Scalability 📈:
 
